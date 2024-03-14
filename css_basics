@@ -1,0 +1,14 @@
+ <!DOCTYPE html>
+ <html>
+    <head>
+        <style>
+            h1{
+                color: orange;
+                p{
+                    color: slategray;
+                }
+            }
+        </style>
+        <h1>CSS BASICS</h1>
+    </head>
+ </html>

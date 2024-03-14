@@ -1,0 +1,45 @@
+h1{
+    color: orange;
+    background-color: green;
+    font-size: 20px;
+    text-decoration: underline;
+    font-family: Arial;
+    text-align: center;
+}
+p{
+    text-align: left;
+    line-height: 30px;
+    letter-spacing: 2px;
+    column-count: 3;
+    column-gap: 40px;
+    color: slategray;
+}
+ul{
+   /* border-width: 4px;
+    border-style: solid;*/
+    border-bottom: 4px solid crimson;
+    border-left: 8px dashed crimson;
+}
+li{
+    list-style-type: none;
+    text-shadow: 2px 2px #8e696b;
+}
+span{
+    display: inline-block;
+    margin: 20px;
+padding: 20px;
+}
+div{
+/*display: inline*/
+border: 2px solid crimson;
+margin: 20px;
+padding: 20px;
+}
+/*peusode class*/
+nav list a:hover{
+    position: relative;
+    top: 4px;
+} form input :focus{
+    border: 4px dashed #4b4b4b;
+}
+form input :valid
